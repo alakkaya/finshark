@@ -27,3 +27,13 @@ Generated\
 
 # Database files
 User.db
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.assembly
+bin/
+obj/
