@@ -1,1 +1,29 @@
-/.vscode
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\
+
+# Backup & report files
+*.bak
+*.ncrunch*
+*.ndoc
+*.nunit
+*.coverage
+*.coveragexml
+*.testresults
+*.vspscc
+*.vssscc
+
+# Others
+*.DS_Store
+*.vscode/
+
+# Database files
+User.db
