@@ -37,3 +37,4 @@ User.db
 *.assembly
 bin/
 obj/
+.fake
