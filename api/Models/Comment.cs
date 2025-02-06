@@ -15,6 +15,8 @@ namespace api.Models
         public DateTime CreatedOn { get; set; } = DateTime.Now;
         public int? StockId { get; set; }
         public Stock? Stock { get; set; }// navigation property allow us to navigate from one entity to another
+        public string AppUserId { get; set; }
+        public AppUser AppUser { get; set; }
 
     }
 }
