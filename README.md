@@ -1,7 +1,5 @@
 # 🦈 FinShark - Financial Analysis Platform
 
-![FinShark Logo](homepage.png)
-
 FinShark, yatırımcıların kısa vadeli veri gürültüsü olmadan ilgili finansal belgeleri ve şirket bilgilerini bulmalarına yardımcı olan modern bir finansal analiz platformudur.
 
 ## 🌟 Özellikler
